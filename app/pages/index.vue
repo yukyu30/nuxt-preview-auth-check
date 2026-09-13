@@ -5,7 +5,7 @@ const count = ref(0);
   <main>
     <p>Nuxt プレビュー認証の検証</p>
     <h1>認証後のページ</h1>
-    <p>パスワード制限を試すためのサンプルサイトです。</p>
+    <p>このプルリクエストのプレビューで、パスワード認証を試せます。</p>
     <button @click="count++">カウント {{ count }}</button>
     <p><NuxtLink to="/about">別のページへ</NuxtLink></p>
     <p><a href="/sample.txt">静的ファイルを開く</a></p>
