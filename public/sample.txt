@@ -1,0 +1,1 @@
+Protected static asset: Nuxt preview authentication sample.
